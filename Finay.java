@@ -17,9 +17,9 @@ public class Finay {
 
         System.out.println("******************学生信息*********************");
         Student xm = new Student();
-        xm.setName("王小明");
-        xm.setAge(20);
-        xm.setNumber(2019666888);
+        xm.setName("陈冰");
+        xm.setAge(21);
+        xm.setNumber(2025164792);
         xm.setSex("男");
         System.out.println("学生姓名:" + xm.getName());
         System.out.println("学生年龄:" + xm.getAge());
